@@ -1,4 +1,4 @@
-# Visual-Question-Answering---Applied-Deep-Learning
+# Visual Question Answering
 Team Members - Hongyu, Jaineet 
 
 Motivation - 
