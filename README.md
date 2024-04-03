@@ -3,9 +3,9 @@
 Hongyu <br> 
 Jaineet 
 
-## Motivation - 
+## Motivation
 To answer questions based on input images accurately.
-To create a model with an feasible architecture.
+To create a model with a feasible architecture.
 To create an attention layer to improve the overall accuracy.
 Dataset Used - CLEVR Dataset. It consists of 70,000 training images and 699,989 questions. 
 
